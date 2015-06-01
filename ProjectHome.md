@@ -1,0 +1,1 @@
+Proyecto para hacer capturas de pantalla de tu computador
